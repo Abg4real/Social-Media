@@ -1,2 +1,5 @@
+.gitignore
+/client/.gitignore
+/server/.gitignore
 node_modules
 /server/config.js
