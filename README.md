@@ -1,4 +1,4 @@
-#Social Media
+# Social Media
 
 A ReactJS + GraphQL application with functions similar to Twitter.
 
